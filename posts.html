@@ -4,16 +4,16 @@ title: "Posts"
 permalink: /posts/
 ---
 
-{% for category in site.categories %}
-  {% capture cat %}{{ category | first }}{% endcapture %}
-  <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
+{% for tag in site.tags %}
+  {% capture t %}{{ tag | first }}{% endcapture %}
+  <h2 id="{{t}}">{{ t | capitalize }}</h2>
   {% for desc in site.descriptions %}
-    {% if desc.cat == cat %}
+    {% if desc.tag == t %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
     {% endif %}
   {% endfor %}
   <ul class="posts-list">
-  {% for post in site.categories[cat] %}
+  {% for post in site.tags[t] %}
     <li>
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
