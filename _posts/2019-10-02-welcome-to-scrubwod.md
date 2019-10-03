@@ -2,7 +2,7 @@
 layout: post
 title:  "What is ScrubWOD?"
 date:   2019-10-02
-tags: foundations
+tags: ScrubWOD
 ---
 
 ScrubWOD is a blog created by a scrub. This scrub has a fairly poor grasp of

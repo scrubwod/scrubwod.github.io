@@ -2,7 +2,7 @@
 layout: post
 title:  "Who is this scrub?"
 date:   2019-10-02
-tags: foundations
+tags: ScrubWOD
 ---
 
 I would say I am a pretty average man, earning money by typing out
