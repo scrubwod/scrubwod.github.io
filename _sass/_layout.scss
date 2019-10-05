@@ -108,7 +108,7 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	box-shadow: 0 2px $highlight-color;
+	box-shadow: 0 2px $light-gray;
 	padding: 0 1em;
 	margin: 0;
 	// Remove this to make header scrollable again
@@ -116,7 +116,7 @@ pre code.hljs {
 	top: 0;
 	left: 0;
 	right: 0;
-	background: $white;
+	background: $light-gray;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
