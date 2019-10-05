@@ -180,7 +180,7 @@ nav_pages:
       title: Posts
     - url: /tags/
       title: Tags
-    - url: /jargon/
-      title: Jargon
+    # - url: /jargon/
+    #   title: Jargon
     - url: /personal_goals/
       title: Goals
