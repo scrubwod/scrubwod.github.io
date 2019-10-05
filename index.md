@@ -1,10 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: welcome
 ---
 
-# About ScrubWOD
+## About ScrubWOD
 
 ScrubWOD is a blog created by a scrub. This scrub has a fairly poor grasp of
 English composition, but has enough technical know-how to make a little blog
@@ -28,7 +26,12 @@ basically a lame version of "The Bachelor".
 This scrub is a forever-scrub, but hopefully these posts provide evidence that
 **anyone** can learn to be less of a scrub.
 
-# About Me
+This scrub also welcomes guidance and notes from others! So please [contact
+me](mailto:scrubwod@gmail.com) if you see something potentially harmful or poor! I'd
+love to edit and improve myself and my posts! Remember, I'm a scrub! I have no
+idea what I'm doing!
+
+## About Me
 
 I would say I am a pretty average man, earning money by typing out
 [algorithms](https://en.wikipedia.org/wiki/Algorithm) on a keyboard. I also
