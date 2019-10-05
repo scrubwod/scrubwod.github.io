@@ -1,7 +1,7 @@
 # External plugins
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 exclude:
   - "/vendor/"
@@ -29,8 +29,8 @@ highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-paginate: 3
-paginate_path: "/post/:num/"
+pagination:
+    enabled: true
 
 # Disqus comments
 # disqus_shortname: bencentra
@@ -178,7 +178,9 @@ protocols:
 nav_pages:
     - url: /posts/
       title: Posts
+    - url: /tags/
+      title: Tags
     - url: /jargon/
       title: Jargon
-    - url: /about/
-      title: About
+    - url: /personal_goals/
+      title: Goals
