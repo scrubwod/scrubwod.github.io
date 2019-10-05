@@ -7,10 +7,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Scrub WOD
+title: ScrubWOD
 subtitle: "Don't be afraid to be a scrub!"
 email: scrubwod@gmail.com
-name: Scrub WOD
+name: ScrubWOD
 description: >-
   Don't be afraid to be a scrub!
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -29,7 +29,7 @@ highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-paginate: 1
+paginate: 3
 paginate_path: "/post/:num/"
 
 # Disqus comments
@@ -178,5 +178,7 @@ protocols:
 nav_pages:
     - url: /posts/
       title: Posts
+    - url: /jargon/
+      title: Jargon
     - url: /about/
       title: About
