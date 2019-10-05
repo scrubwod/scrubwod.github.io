@@ -1,5 +1,6 @@
 ---
 layout: welcome
+permalink: /
 ---
 
 ## About ScrubWOD

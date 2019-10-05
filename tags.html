@@ -6,7 +6,9 @@ permalink: /tags/
 
 {% for tag in site.tags %}
   {% capture t %}{{ tag | first }}{% endcapture %}
-  <h2 id="{{t}}">{{ t | capitalize }}</h2>
+  <!-- Floating div to anchor above header -->
+  <div id="{{t}}" style="position: relative; top: -80px"></div>
+  <h2>{{ t | capitalize }}</h2>
   {% for desc in site.descriptions %}
     {% if desc.tag == t %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
