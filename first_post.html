@@ -1,0 +1,51 @@
+---
+layout: default
+permalink: /posts/
+
+---
+
+<div class="wrapper">
+<ul class="post-list">
+  <li>
+    <h2>
+      <a class="post-link" href="{{ site.posts[0].url | prepend: site.baseurl }}">{{ site.posts[0].title }}</a>
+    </h2>
+    <article class="post-content">
+      {{ site.posts[0].content }}
+    </article>
+    <section class="post-meta">
+      <div class="post-date">{{ site.posts[0].date | date: "%B %-d, %Y" }}</div>
+      <div class="post-categories">
+      {% if site.posts[0].tags.size > 0 %}in {% for tag in site.posts[0].tags %}
+        <a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+      {% endfor %}{% endif %}
+      </div>
+    </section>
+  </li>
+</ul>
+
+<nav class="pagination" role="navigation">
+	<p>
+		<span class="fa-stack fa-lg">
+          <i class="fa fa-square fa-stack-2x"></i>
+          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+        </span>
+		<span class="page-number">Page 1 of {{ site.posts.size }}</span>
+        {% if site.posts.size > 1 %}
+		<a class="newer-posts" href="{{ site.baseurl }}{{ page.permalink }}page/2/">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-square fa-stack-2x"></i>
+        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+		{% else %}
+		<span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x"></i>
+      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+    </span>
+		{% endif %}
+	</p>
+</nav>
+
+</div>
+</div>
