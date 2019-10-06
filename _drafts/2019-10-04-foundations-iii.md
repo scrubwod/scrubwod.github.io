@@ -74,3 +74,24 @@ and technique unfortunately becomes secondary. I know better now and I am now
 comfortable not finishing in time, so long as my technique is as good as I can
 get it every time.
 
+
+### Resources
+
+- [Craig Richey w/ Sonny Webster, How to Clean](https://youtu.be/rtJIi-rZrdw?t=292)
+    - Hook grip, narrow grip
+    - Feet more parallel, narrow between grip
+    - Bar should touch shins at start; Shins should be fairly perpendicular to
+      ground
+    - Pull up when above ankles, seems like limited from how straight you can
+      keep your arms and how high you can shrug your shoulders
+    - Jump out to wider stance, drive elbows out to the front rack position,
+      hit bottom of the squat
+- [Craig Richey w/ Sonny Webster, How to Snatch](https://youtu.be/Nh4X2loPVUo?t=143)
+    - Bum height is where knees align with arms, i.e. the bar, your knees, and
+      your arms should lie on a single plane
+- [CrossFit Jääkarhu, What is Triple Extension](https://youtu.be/g2lbEjrS1oo)
+    - Bar should be moving straight, perpendicularly to the ground
+    - To achieve this movement, pull should be up, leading with elbows and
+      shoulders up (instead of backwards, with an arch of the back)
+- [Craig Richey, little exercise trying to make the pull more
+  powerful](https://youtu.be/lvWmQeBXvmk?t=292)

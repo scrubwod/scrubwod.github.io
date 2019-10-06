@@ -10,9 +10,10 @@ tags: [foundations, row, air squat, box, wall ball, kettlebell]
 
 
 At the gym that I decided to join, they offered a "No Sweat" introduction to
-their box and why I should join them and not anyone else. The coach claimed
-their equipment is latest and greatest; That wasn't the selling point for me. I
-know that the best equipment in the world won't make you a better
+their box and why I should join them and not anyone else (It seems that most of
+the boxes around me offered this.). The coach claimed their equipment is latest
+and greatest; That wasn't the selling point for me. I know that the best
+equipment in the world won't make you a better
 <u>&nbsp;&nbsp;[anything]&nbsp;&nbsp;</u>. It's probably more helpful for the
 people who are trying to compete, as you'd want to study with the right
 materials. But doesn't matter that much to me.
@@ -98,6 +99,13 @@ overview of what kind of equipment was in the gym.
           **more** efficient pull up rep, where you are cycling the kipping
           motion: The in-betweens become the bottom and top positions.
         - [_This has quickly become a goal_](/personal_goals/)
+
+
+### Handstands
+
+- I have never done a handstand pushup (and has become a
+  [goal](/personal_goals/)), to which the coach had me kick up to the wall and
+  walk/crawl up/down the walk.
 
 ### [Wall Ball](https://www.youtube.com/watch?v=fpUD0mcFp_0)
 

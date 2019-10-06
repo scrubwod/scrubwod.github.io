@@ -8,6 +8,8 @@ This is just a running list of my goals related to CrossFit.
 
 ### Measurable goals
 - [ ] Learn butterfly pullups
+- [ ] Handstand push up
+- [ ] Handstand walk
 - Olympic Lift Goals
     - Single rep; At bodyweight (150lbs)
         - [ ] Front squat

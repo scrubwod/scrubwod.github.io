@@ -26,6 +26,16 @@ I tried my best to group them by context.
 - False grip
 
 
+## Barbells
+
+- Power
+- Jerk
+- Clean
+- Snatch
+- Split
+
+
+
 ## Etc.
 
 - Box
