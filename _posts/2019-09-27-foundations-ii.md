@@ -2,7 +2,7 @@
 layout: post
 title:  "Foundations: Day II"
 date:   2019-09-27
-tags: foundations
+tags: [foundations, bike, push, squat]
 ---
 
 *(Written retrospectively, so honestly probably forgot something)*

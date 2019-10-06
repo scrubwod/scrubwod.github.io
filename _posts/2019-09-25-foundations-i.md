@@ -2,7 +2,7 @@
 layout: post
 title:  "Foundations: Day I"
 date:   2019-09-25
-tags: [foundations, row, air squat, box, wall ball, kettlebell]
+tags: [foundations, row, squat, handstand, box, wall ball, kettlebell]
 ---
 
 *(Written retrospectively, so honestly probably forgot something)*
