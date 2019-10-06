@@ -2,12 +2,13 @@
 layout: post
 title:  "Foundations: Day III"
 date:   2019-10-04
-tags: foundations
+tags: [foundations, deadlift, snatch, clean, barbell, wod]
 ---
 
 This final session was learning how to get the barbell off of the floor.
 
-Here are some form tips I received and that I found around the web.
+After this session, I immediately signed up for the unlimited membership to get
+the show on the road!
 
 ### Deadlift
 
@@ -15,11 +16,17 @@ Fun and easy.
 
 ### Snatch
 
-I think I need to drive my shoulder blades down more?
+- I am still having a problem with driving power up from the hang into the snatch
+- I want to try getting used to holding the barbell and get used to the motion
+  from the hang - I learned that power snatches are when you catch the barbell
+  at the top, "at triple extension"
 
 ### Clean
 
-I hate these - I'm so bad at it and I don't know why.
+- I currently hate these - I'm so bad at it and I don't know why.
+- Similar to the snatch, I think I want to just get used to the motion from the
+  hang into a power clean, remembering to use my elbows to drive the barbell
+  up.
 
 ### Broad Strokes
 
@@ -95,3 +102,4 @@ get it every time.
       shoulders up (instead of backwards, with an arch of the back)
 - [Craig Richey, little exercise trying to make the pull more
   powerful](https://youtu.be/lvWmQeBXvmk?t=292)
+

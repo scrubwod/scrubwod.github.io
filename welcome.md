@@ -3,6 +3,19 @@ layout: welcome
 permalink: /
 ---
 
+<nav class="pagination" role="navigation">
+  <a class="newer-posts" href="{{ site.baseurl }}/posts/">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-square fa-stack-2x">
+      Check out the posts!
+      </i>
+    </span>
+  </a>
+</nav>
+
+<br/>
+
+
 ## About ScrubWOD
 
 ScrubWOD is a blog created by a scrub. This scrub has a fairly poor grasp of
