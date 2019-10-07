@@ -27,6 +27,8 @@ susceptible](https://birthmoviesdeath.com/2015/04/22/community-review-6.07-advan
 and after this, I was immediately sold and started the sessions a few days
 later.
 
+<!--more-->
+
 This box requires the members to go through three one-on-one sessions to get
 you primed for CrossFit classes. I have no problem with this; I actually prefer
 this because I'm a scrub! I need all the help I can get! Jumping into a

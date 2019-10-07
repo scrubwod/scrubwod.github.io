@@ -22,6 +22,8 @@ There was also a CrossFit class right after, so I decided to take it. Luckily
 the coach that I had the 1-1 sessions with was running the session, so it was
 definitely more comfortable for me.
 
+<!--more-->
+
 The prescribed WOD was a 20 Minute AMRAP:
 - 100 Douple-unders
 - 50 Wallballs (20/14)
@@ -38,6 +40,10 @@ I ended up finishing one round of:
 - 20 Trying to get my toes up to the bar: 6-6-4-4
 - 10 Box-assisted muscle ups: Singles
 
+I really pushed myself to finish at least one round and I'm glad I did.
+My lower back is crying and resumed position as being stiff as a board, but I'm
+still glad I pushed.
+
 
 ### Things to improve
 
@@ -47,6 +53,8 @@ I can do one double under. And then I can lose track of the rhythm and hit my
 feet. And then I can do two double unders and then hit my feet. Double unders
 are so damn annoying if you can't get them; Spending time untangling my feet
 **suuuucks**.
+
+Resource: [Craig Richey, How to double under](https://youtu.be/7EKmx-xUzUo?t=54)
 
 #### Counting
 
@@ -64,6 +72,9 @@ One thing that the coach pointed out was that my legs should more slowly
 retract and to use that time to breathe and rest. I was retracting my arms back
 to extended fairly quickly was good, but I think I need to try to get more
 speed into the pull.
+
+Resource: [How to go faster while doing less on the rowing
+machine](https://www.youtube.com/watch?v=EVW8plmgE9A)
 
 #### Snatches
 
@@ -98,14 +109,22 @@ Focusing on the timing to swing your legs down ends up helping your pendulum,
 so you can more easily reuse a lot of the same potential energy. **Science!**
 
 
-#### Muscle Ups
+#### Bar Muscle Ups
 
-I couldn't do a real muscle up because I didn't really understand the
-mechanics. After using the box, I more closely understand how my body could
-achieve the movement. I quickly figured out that jumping was getting me up to a
-position where my arms were mostly already extended. It was then a matter of a
-tiny push up to complete. I don't know if it was cheating, but my body was
-already toast at this point of the WOD and I didn't care.
+During the warm up, the coach mentioned that we need to think of getting our
+hips close to the bar. I thought I understood, but when I did an attempt, I
+didn't get my hips anywhere near the bar; I basically just did a kipping pull
+up, drawing my chest to the bar. After using the box, I more closely understand
+that if you kip with enough power to maintain a relatively straight arm, you'll
+draw the bar to your abs/hips; If you draw your arm in like a pull up, you'll
+just get your sternum to the bar, making it harder to transition above the bar.
+(*I think the ring muscle up is different and definitely requires more
+strength, but that's not even a concern right now.*)
+
+On the box I quickly figured out that jumping was getting me up to a position
+where my arms were mostly already extended. It was then a matter of a tiny push
+up to complete. I don't know if it was cheating, but my body was already toast
+at this point of the WOD and I didn't care.
 
 This feels like what I was missing at the first attempt. I didn't use the
 kipping motion from my legs to simulate a jump and get my hips closer to the
@@ -113,6 +132,10 @@ bar.
 
 I still don't think I can do it without help, but I think I'm in a good
 direction for crossing this goal off.
+
+Resource: [Craig Richey, How to bar muscle up if you have the strength](https://www.youtube.com/watch?v=R3EUjVWMOqo)
+
+He mentions one should be able to do the strict muscle up before kipping. I'll try to work for a strict muscle up.
 
 
 ### Thoughts

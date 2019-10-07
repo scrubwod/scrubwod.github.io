@@ -7,8 +7,14 @@ tags: [foundations, deadlift, snatch, clean, barbell, wod]
 
 This final session was learning how to get the barbell off of the floor.
 
+This is really exciting because these are the flashier of the CrossFit
+movements and I think these are the moves that will test my strength and make
+me stronger.
+
 After this session, I immediately signed up for the unlimited membership to get
 the show on the road!
+
+<!--more--> 
 
 ### Deadlift
 

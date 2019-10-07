@@ -5,11 +5,7 @@ permalink: /
 
 <nav class="pagination" role="navigation">
   <a class="newer-posts" href="{{ site.baseurl }}/posts/">
-    <span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x">
-      Check out the posts!
-      </i>
-    </span>
+    <h3><code> Check out the posts!  </code></h3>
   </a>
 </nav>
 

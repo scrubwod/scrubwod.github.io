@@ -6,6 +6,8 @@ plugins:
 exclude:
   - "/vendor/"
 
+excerpt_separator: <!--more-->
+
 # Site settings
 title: ScrubWOD
 subtitle: "Don't be afraid to be a scrub!"
@@ -29,7 +31,7 @@ highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-paginate: 1
+paginate: 5
 paginate_path: "/posts/page/:num/"
 
 # Disqus comments

@@ -11,8 +11,15 @@ layout: default
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <article class="post-content">
-      {{ post.content }}
+      {{ post.excerpt }}
     </article>
+    {% if post.excerpt != post.content %}
+    <nav class="pagination" role="navigation" style="padding-top: 0px;">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <h4><code> Read More!</code></h4>
+      </a>
+    </nav>
+    {% endif %}
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
       <div class="post-categories">

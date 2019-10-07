@@ -7,7 +7,10 @@ tags: [foundations, bike, push, squat, barbell, wod]
 
 *(Written retrospectively, so honestly probably forgot something)*
 
-Today was moving around the barbell off of the rack.
+Today was moving around the barbell off of the rack. This was good stuff
+because my shoulders and upper body are **weak as fuck**.
+
+<!--more-->
 
 ### Assault Bike
 - Seat height: 4
