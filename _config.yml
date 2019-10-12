@@ -3,6 +3,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll-seo-tag
 
 exclude:
   - "/vendor/"
@@ -15,7 +16,7 @@ subtitle: "Don't be afraid to be a scrub!"
 email: scrubwod@gmail.com
 name: ScrubWOD
 description: >-
-  Don't be afraid to be a scrub!
+  Adventures of a scrub doing WODs - Don't be afraid to be a scrub!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.

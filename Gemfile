@@ -3,3 +3,4 @@ gem 'jekyll', '<4'
 gem 'jekyll-sitemap'
 gem "jekyll-paginate"
 gem 'jemoji'
+gem 'jekyll-seo-tag'
