@@ -2,7 +2,7 @@
 layout: post
 title:  "A Beginner's First Real Class"
 date:   2019-10-06
-tags: [wod, to improve, row, snatch, toes to bar, muscle up]
+tags: [wod, row, snatch, toes to bar, muscle up]
 ---
 
 It's a very happy Sunday! I love Sundays. Sundays for me are a way to soup
