@@ -77,3 +77,9 @@ picture {
 code {
 
 }
+
+/* To prevent emoji images from acting like a "regular" image */
+.page-content img.emoji {
+    display: inline;
+    width: auto;
+}

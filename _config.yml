@@ -2,6 +2,7 @@
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jemoji
 
 exclude:
   - "/vendor/"
