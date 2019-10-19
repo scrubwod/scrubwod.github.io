@@ -16,7 +16,7 @@ I tried my best to group them by context.
 
 - AMRAP
 - EMOM
-- "For time... Cap..."
+- #RFT/Cap
 
 
 ## Grips
