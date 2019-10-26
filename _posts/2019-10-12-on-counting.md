@@ -2,7 +2,7 @@
 layout: post
 title:  "On Counting"
 date:   2019-10-12
-tags: [counting]
+tags: [mentality, counting]
 ---
 
 I've been to three official CrossFit classes, and every WOD I have lost count
