@@ -1,0 +1,69 @@
+#!/usr/bin/env python
+"""
+Helper to create a new post, using template file.
+
+Usage:
+    new_post [name of post] ([optional date])
+
+"""
+import argparse
+import datetime
+import os
+import sys
+
+TEMPLATE_FILE = "./_drafts/2019-01-01-template.md"
+TEMPLATE_MAPPING = {
+    "TITLE": 'title',
+    "DATE": 'date',
+}
+OUTPUT_DIR = "./_posts"
+OUTPUT_FILENAME_TEMPALTE = "{date}-{title}.md"
+
+this_dir = os.path.dirname(__file__)
+template_file_path = os.path.join(this_dir, TEMPLATE_FILE)
+current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+
+
+def main():
+    # Parse arguments
+    parser = argparse.ArgumentParser(
+        description="Create new post"
+    )
+    parser.add_argument("title", help="Title of new post")
+    parser.add_argument(
+        "date",
+        help="Date of new post. Uses current date if not provided.",
+        nargs="?",
+        default=current_date
+    )
+    args = vars(parser.parse_args())
+
+    # Obtain template
+    with open(template_file_path) as fp:
+        template_contents = fp.read()
+
+    # Determine output name
+    output_filename = OUTPUT_FILENAME_TEMPALTE.format(
+        date=args['date'],
+        title=args['title'].lower().replace(' ', '_')
+    )
+    output_file = os.path.join(
+        this_dir,
+        OUTPUT_DIR,
+        output_filename
+    )
+
+    # Write out file
+    template_mapping_values = {
+        k: args[v]
+        for k, v in TEMPLATE_MAPPING.items()
+    }
+    with open(output_file, 'w') as fp:
+        fp.write(
+            template_contents.format(**template_mapping_values)
+        )
+
+
+if __name__ == "__main__":
+    main()
+
