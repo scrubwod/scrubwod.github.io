@@ -35,8 +35,10 @@ This is just a running list of my goals related to CrossFit.
 These are the heaviest weights I've done the movement with.
 
 - Deadlift: 185lb
-- Snatch: 75lb
-- Clean: 95lb
+- Squat Snatch: 75lb
+- Power Snatch: 100lb
+- Squat Clean: 95lb
+- Power Clean: 75lb
 - Strict Overhead Press: 75lb
 - Close-grip Bench Press: 75lb
 - Thruster: 95lb
