@@ -15,7 +15,7 @@ I tried my best to group them by context.
 ## Workout Types
 
 - AMRAP
-- EMOM
+- E(#)MOM: Every (two/three/etc.) minute(s) on the minute
 - #RFT/Cap
 
 
