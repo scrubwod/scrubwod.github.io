@@ -40,6 +40,7 @@ These are the heaviest weights I've done the movement with.
 - Squat Clean: 95lb
 - Power Clean: 75lb
 - Strict Overhead Press: 75lb
+- Bench Press: 125lb
 - Close-grip Bench Press: 75lb
 - Thruster: 95lb
 - Jerk: 95lb
