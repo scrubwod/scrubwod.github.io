@@ -35,6 +35,7 @@ This is just a running list of my goals related to CrossFit.
 These are the heaviest weights I've done the movement with.
 
 - Deadlift: 185lb
+- Front Squat: 135lb
 - Squat Snatch: 75lb
 - Power Snatch: 100lb
 - Squat Clean: 95lb
