@@ -7,6 +7,7 @@ permalink: /personal_goals/
 This is just a running list of my goals related to CrossFit.
 
 ### Measurable goals
+- [ ] Bar muscle up
 - [ ] Learn butterfly pullups
 - [ ] Handstand push up
 - [ ] Handstand walk
