@@ -7,8 +7,6 @@ plugins:
 
 exclude:
   - "/vendor/"
-  - "new_post"
-  - "tags"
 
 excerpt_separator: <!--more-->
 

@@ -4,7 +4,8 @@ title: "Tags"
 permalink: /tags/
 ---
 
-{% for tag in site.tags %}
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
   {% capture t %}{{ tag | first }}{% endcapture %}
   <!-- Floating div to anchor above header -->
   <div id="{{t}}" style="position: relative; top: -80px"></div>
