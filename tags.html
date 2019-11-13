@@ -16,7 +16,8 @@ permalink: /tags/
     {% endif %}
   {% endfor %}
   <ul class="posts-list">
-  {% for post in site.tags[t] %}
+  {% assign sorted_posts = site.tags[t] | sort: "date" %}
+  {% for post in sorted_posts %}
     <li>
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
