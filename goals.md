@@ -37,10 +37,11 @@ These are the heaviest weights I've done the movement with.
 
 - Deadlift: 185lb
 - Front Squat: 135lb
+- Overhead Squat: 90lb
 - Squat Snatch: 75lb
 - Power Snatch: 100lb
 - Squat Clean: 95lb
-- Power Clean: 75lb
+- Power Clean: 95lb
 - Strict Overhead Press: 75lb
 - Bench Press: 125lb
 - Close-grip Bench Press: 75lb
