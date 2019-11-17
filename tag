@@ -38,12 +38,19 @@ def main():
         with open(os.path.join(post_dir, post_filename)) as fp:
             post = frontmatter.load(fp)
             for tag in post.get('tags', []):
-                tags.setdefault(tag, []).append(post.get('title', post_filename))
+                tags.setdefault(tag, []).append(
+                    (
+                        post.get('date', '0000-00-00'),
+                        post.get('title', post_filename)
+                    )
+                )
 
     for tag, posts in sorted(tags.items()):
         print(tag)
         if args['extended']:
-            print('\n'.join('\t"{}"'.format(post) for post in posts))
+            print(
+                '\n'.join('  - "{}"'.format(post) for date, post in sorted(posts))
+            )
 
 
 if __name__ == "__main__":
