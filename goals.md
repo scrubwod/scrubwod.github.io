@@ -16,8 +16,8 @@ This is just a running list of my goals related to CrossFit.
 - Olympic Lift Goals
     - Single rep; At bodyweight (150lbs)
         - [X] Deadlift
+        - [X] Back squat
         - [ ] Front squat
-        - [ ] Back squat
         - [ ] Overhead squat
         - [ ] Push Press
         - [ ] Overhead Press
