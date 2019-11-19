@@ -37,6 +37,7 @@ These are the heaviest weights I've done the movement with.
 
 - Deadlift: 185lb _(2 reps; 1RM should only be a handful of pounds more)_
 - Front Squat: 135lb _(3 reps; 1RM should only be a handful of pounds more)_
+- Back Squat: 155lb _(1RM; Hard but didn't really feel max effort)_
 - Overhead Squat: 90lb _(4 reps, 2-2-2 tempo; 1RM could probably be more)_
 - Squat Snatch: 75lb _(For 3 rep WOD; Need to practice form, but likely can build more)_
 - Power Snatch: 100lb _(1RM)_
