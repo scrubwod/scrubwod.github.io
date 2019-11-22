@@ -45,7 +45,7 @@ These are the heaviest weights I've done the movement with.
 - Power Clean: 95lb _(21 singles were pretty easy)_
 - Strict Overhead Press: 75lb _(5 reps; Struggled)_
 - Bench Press: 125lb _(1RM)_
-- Close-grip Bench Press: 75lb _(3 reps)_
+- Close-grip Bench Press: 105lb _(5 reps)_
 - Thruster: 95lb _(3 reps)_
 - Clean & Jerk: 95lb _(1RM)_
 
