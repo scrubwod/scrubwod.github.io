@@ -35,17 +35,17 @@ This is just a running list of my goals related to CrossFit.
 
 These are the heaviest weights I've done the movement with.
 
-- Deadlift: 185lb _(2 reps; 1RM should only be a handful of pounds more)_
-- Front Squat: 135lb _(3 reps; 1RM should only be a handful of pounds more)_
-- Back Squat: 165lb _(3RM; Last rep was pretty tough)_
-- Overhead Squat: 90lb _(4 reps, 2-2-2 tempo; 1RM could probably be more)_
-- Squat Snatch: 75lb _(For 3 rep WOD; Need to practice form, but likely can build more)_
-- Power Snatch: 100lb _(1RM)_
-- Squat Clean: 95lb _(Did as part of C&J 1RM)
-- Power Clean: 95lb _(21 singles were pretty easy)_
-- Strict Overhead Press: 75lb _(5 reps; Struggled)_
-- Bench Press: 125lb _(1RM)_
+- Deadlift: 185lb _(2 reps; 1RM should only be a handful of pounds more; Standard: 213lb)_
+- Front Squat: 135lb _(3 reps; 1RM should only be a handful of pounds more; Standard: 147lb)_
+- Back Squat: 165lb _(3RM; Last rep was pretty tough; Standard: 177lb)_
+- Overhead Squat: 90lb _(4 reps, 2-2-2 tempo; 1RM could probably be more; Standard: 98lb)_
+- Squat Snatch: 75lb _(For 3 rep WOD; Need to practice form, but likely can build more; Standard: 102lb)_
+- Power Snatch: 100lb _(1RM; Standard: 98lb)_
+- Squat Clean: 95lb _(Did as part of C&J 1RM; Standard: 138lb)_
+- Power Clean: 95lb _(21 singles were pretty easy; Standard: 131lb)_
+- Strict Overhead Press: 75lb _(5 reps; Struggled; Standard: 85lb)_
+- Bench Press: 125lb _(1RM; Standard: 133lb)_
 - Close-grip Bench Press: 105lb _(5 reps)_
-- Thruster: 95lb _(3 reps)_
-- Clean & Jerk: 95lb _(1RM)_
+- Thruster: 95lb _(3 reps; Standard: 96lb)_
+- Clean & Jerk: 95lb _(1RM; Standard: 127lb)_
 
