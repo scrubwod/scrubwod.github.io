@@ -15,7 +15,7 @@ This is just a running list of my goals related to CrossFit.
 - [ ] Toes to bars
 - Olympic Lift Goals
     - Single rep; At bodyweight (150lbs)
-        - [X] Deadlift (BW+35lb)
+        - [X] Deadlift (BW+50lb)
         - [X] Back squat (BW+15lb)
         - [ ] Front squat
         - [ ] Overhead squat
@@ -35,7 +35,7 @@ This is just a running list of my goals related to CrossFit.
 
 These are the heaviest weights I've done the movement with.
 
-- Deadlift: 185lb _(2 reps; 1RM should only be a handful of pounds more; Standard: 213lb)_
+- Deadlift: 200lb _(5 reps; Was hard but did not super struggle; Standard: 213lb)_
 - Front Squat: 135lb _(3 reps; 1RM should only be a handful of pounds more; Standard: 147lb)_
 - Back Squat: 165lb _(3RM; Last rep was pretty tough; Standard: 177lb)_
 - Overhead Squat: 90lb _(4 reps, 2-2-2 tempo; 1RM could probably be more; Standard: 98lb)_
