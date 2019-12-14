@@ -39,7 +39,7 @@ These are the heaviest weights I've done the movement with.
 - Front Squat: 135lb _(3 reps; 1RM should only be a handful of pounds more; Standard: 147lb)_
 - Back Squat: 165lb _(3RM; Last rep was pretty tough; Standard: 177lb)_
 - Overhead Squat: 90lb _(4 reps, 2-2-2 tempo; 1RM could probably be more; Standard: 98lb)_
-- Squat Snatch: 75lb _(For 3 rep WOD; Need to practice form, but likely can build more; Standard: 102lb)_
+- Squat Snatch: 90lb _(For 1 rep pull-snatch-squat complex; Standard: 102lb)_
 - Power Snatch: 100lb _(1RM; Standard: 98lb)_
 - Squat Clean: 135lb _(3x; Kinda heavy, but with better form think could add more; Standard: 138lb)_
 - Power Clean: 95lb _(21 singles were pretty easy; Standard: 131lb)_
@@ -47,5 +47,5 @@ These are the heaviest weights I've done the movement with.
 - Bench Press: 125lb _(1RM; Standard: 133lb)_
 - Close-grip Bench Press: 105lb _(5 reps)_
 - Thruster: 95lb _(3 reps; Standard: 96lb)_
-- Clean & Jerk: 95lb _(1RM; Standard: 127lb)_
+- Clean & Jerk: 125lb _(2RM; Standard: 127lb)_
 
