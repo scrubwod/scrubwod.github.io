@@ -6,13 +6,13 @@ permalink: /personal_goals/
 
 This is just a running list of my goals related to CrossFit.
 
-### Measurable goals
-- [ ] Bar muscle up
+### Measurable goals!
 - [ ] Learn butterfly pullups
 - [ ] Handstand push up
 - [ ] Handstand walk
 - [ ] Double Unders
 - [X] Toes to bars
+- [X] Bar muscle up: 2020/01/12 BABY
 - Olympic Lift Goals
     - Single rep; At bodyweight (150lbs)
         - [X] Deadlift (BW+50lb)
