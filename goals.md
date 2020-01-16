@@ -42,10 +42,10 @@ These are the heaviest weights I've done the movement with.
 - Squat Snatch: 95lb - Aim for 105lb _(For 1 rep pull-snatch-squat complex; Standard: 102lb)_
 - Power Snatch: 100lb - Aim for 115lb_(1RM; Standard: 98lb)_
 - Squat Clean: 135lb - Aim for 150lb _(3x; Kinda heavy, but with better form think could add more; Standard: 138lb)_
-- Power Clean: 115lb - Aim for 130lb_(5x2 powclean+powjerk hard but not struggling at the end; Standard: 131lb)_
+- Power Clean: 145lb - Aim for 155lb_(5x (every 20 sec) powclean+pushjerk hard but 1rm can be more i think; Standard: 131lb)_
 - Strict Overhead Press: 75lb - Aim for 85lb _(5 reps; Struggled; Standard: 85lb)_
 - Bench Press: 125lb - Aim for 135lb _(1RM; Standard: 133lb)_
 - Close-grip Bench Press: 105lb - Aim for 115lb _(5 reps)_
 - Thruster: 95lb - Aim for 115lb _(3 reps; Standard: 96lb)_
 - Clean & Jerk: 125lb - Aim for 145lb _(2RM; Standard: 127lb)_
-- Push Jerk: 115lb - Aim for 125lb _(5x2 powclean+powjerk hard but not struggling at the end; Standard: 122lb)_
+- Push Jerk: 145lb - Aim for 155lb_(5x (every 20 sec) powclean+pushjerk hard but 1rm can be more i think; Standard: 122lb)_
