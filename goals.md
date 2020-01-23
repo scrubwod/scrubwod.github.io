@@ -17,7 +17,7 @@ This is just a running list of my goals related to CrossFit.
     - Single rep; At bodyweight (150lbs)
         - [X] Deadlift (BW+50lb)
         - [X] Back squat (BW+15lb)
-        - [ ] Front squat
+        - [X] Front squat (BW+5lb)
         - [ ] Overhead squat
         - [ ] Push Press
         - [ ] Overhead Press
@@ -38,7 +38,7 @@ This is just a running list of my goals related to CrossFit.
 These are the heaviest weights I've done the movement with.
 
 - Deadlift: 200lb - Aim for 220lb _(5 reps; Was hard but did not super struggle; Standard: 213lb)_
-- Front Squat: 135lb - Aim for 150lb _(3 reps; 1RM should only be a handful of pounds more; Standard: 147lb)_
+- Front Squat: 155lb - Aim for ???lb _(5 reps; 1RM should only be a handful of pounds more - last rep was a fight; Standard: 147lb)_
 - Back Squat: 165lb - Aim for 180lb _(3RM; Last rep was pretty tough; Standard: 177lb)_
 - Overhead Squat: 90lb - Aim for 105lb _(4 reps, 2-2-2 tempo; 1RM could probably be more; Standard: 98lb)_
 - Squat Snatch: 95lb - Aim for 105lb _(For 1 rep pull-snatch-squat complex; Standard: 102lb)_
