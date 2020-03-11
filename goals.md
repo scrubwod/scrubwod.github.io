@@ -39,7 +39,7 @@ These are the heaviest weights I've done the movement with.
 
 - Deadlift: 200lb - Aim for 220lb _(5 reps; Was hard but did not super struggle; Standard: 213lb)_
 - Front Squat: 155lb - Aim for ???lb _(5 reps; 1RM should only be a handful of pounds more - last rep was a fight; Standard: 147lb)_
-- Back Squat: 165lb - Aim for 180lb _(3RM; Last rep was pretty tough; Standard: 177lb)_
+- Back Squat: 175lb - Aim for 180lb _(1RM; Hard but think can do at least 180 for 1RM; Standard: 177lb)_
 - Overhead Squat: 100lb - Aim for 105lb _(2 snatch balance 2 ohs from rack; 1RM could be some more; Standard: 98lb)_
 - Squat Snatch: 95lb - Aim for 105lb _(For 1 rep pull-snatch-squat complex; Standard: 102lb)_
 - Power Snatch: 100lb - Aim for 115lb_(1RM; Standard: 98lb)_
